@@ -6,6 +6,8 @@ This project focuses on **Credit Risk Modeling**, a classification problem that 
 An interactive **Streamlit UI** has been developed to make predictions user-friendly and provide a seamless user experience.
 
 ---
+![image](https://github.com/user-attachments/assets/2e7edfe4-8f97-4b49-8636-27a43bb1feb6)
+
 
 ## Key Features
 - **Weight of Evidence (WOE)** and **IV Score** for categorical feature analysis.
